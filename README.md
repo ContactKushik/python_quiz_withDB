@@ -12,5 +12,5 @@ Welcome to the Quiz App! 🚀 Test your knowledge with fun quizzes on various to
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd <your-project-directory>
+   git clone https://github.com/ContactKushik/python_quiz_withDB.git
+   
