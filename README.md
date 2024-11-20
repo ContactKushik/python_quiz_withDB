@@ -14,3 +14,4 @@ Welcome to the Quiz App! 🚀 Test your knowledge with fun quizzes on various to
    ```bash
    git clone https://github.com/ContactKushik/python_quiz_withDB.git
    
+2. Change the configuration inside the quiz.app:
